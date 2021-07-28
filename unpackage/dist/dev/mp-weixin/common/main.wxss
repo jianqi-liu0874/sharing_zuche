@@ -1,0 +1,167 @@
+@font-face {
+  font-family: 'iconfont';  /* project id 1811400 */
+  src: url('https://at.alicdn.com/t/font_1811400_fx66yyxpewa.eot');
+  src: url('https://at.alicdn.com/t/font_1811400_fx66yyxpewa.eot?#iefix') format('embedded-opentype'),
+  url('https://at.alicdn.com/t/font_1811400_fx66yyxpewa.woff2') format('woff2'),
+  url('https://at.alicdn.com/t/font_1811400_fx66yyxpewa.woff') format('woff'),
+  url('https://at.alicdn.com/t/font_1811400_fx66yyxpewa.ttf') format('truetype'),
+  url('https://at.alicdn.com/t/font_1811400_fx66yyxpewa.svg#iconfont') format('svg');
+}
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-huan:before {
+  content: "\e61a";
+}
+.icon-up:before {
+  content: "\e63e";
+}
+.icon-icon-test:before {
+  content: "\e653";
+}
+.icon-renew:before {
+  content: "\e63b";
+}
+.icon-huankuan:before {
+  content: "\e670";
+}
+.icon-seeuser:before {
+  content: "\e602";
+}
+.icon-huanche:before {
+  content: "\e6bf";
+}
+.icon-xu1:before {
+  content: "\e723";
+}
+.icon-tips:before {
+  content: "\e636";
+}
+.icon-right:before {
+  content: "\e618";
+}
+.icon-lock:before {
+  content: "\e645";
+}
+.icon-unlock:before {
+  content: "\e841";
+}
+.icon-power:before {
+  content: "\e64e";
+}
+.icon-idcard:before {
+  content: "\e606";
+}
+.icon-yonghu3:before {
+  content: "\e7c8";
+}
+.icon-smile:before {
+  content: "\e614";
+}
+.icon-cuowu:before {
+  content: "\e608";
+}
+.icon-zhengque:before {
+  content: "\e6ce";
+}
+.icon-daohang:before {
+  content: "\e640";
+}
+.icon-fangzi:before {
+  content: "\e646";
+}
+.icon-tuichu:before {
+  content: "\e651";
+}
+.icon-time:before {
+  content: "\e629";
+}
+.icon-dianhua:before {
+  content: "\e61f";
+}
+.icon-info:before {
+  content: "\e64a";
+}
+.icon-dingdan:before {
+  content: "\e620";
+}
+.icon-yonghu2:before {
+  content: "\e60a";
+}
+.icon-banbenhao:before {
+  content: "\e672";
+}
+.icon-money:before {
+  content: "\e613";
+}
+.icon-scan:before {
+  content: "\e600";
+}
+.icon-guanbi:before {
+  content: "\e607";
+}
+.icon-shangdian:before {
+  content: "\e601";
+}
+.icon-weizhi:before {
+  content: "\e60b";
+}
+.icon-dingwei:before {
+  content: "\ec32";
+}
+.icon-bangzhu:before {
+  content: "\e609";
+}
+.icon-message:before {
+  content: "\e635";
+}
+.icon-yonghu:before {
+  content: "\e64d";
+}
+
+/*每个页面公共css */
+page {
+	height: 100%;
+	box-sizing: border-box;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	background-color: #fff;
+	font-family: PingFangSC-Regular;
+	-webkit-font-smoothing: antialiased;
+}
+.content {
+	width: 750rpx;
+	overflow-x: hidden;
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-align: stretch;
+	-webkit-align-items: stretch;
+	        align-items: stretch;
+	-webkit-box-pack: start;
+	-webkit-justify-content: flex-start;
+	        justify-content: flex-start;
+	color: #303133;
+}
+.red-text {
+	color: #EA4142;
+}
+.green-text {
+	color: #00AC56;
+}
+

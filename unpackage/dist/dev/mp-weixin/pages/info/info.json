@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "v-tabs": "/components/v-tabs/v-tabs"
+  }
+}

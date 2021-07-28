@@ -1,0 +1,69 @@
+
+.content {
+	padding: 50rpx;
+}
+.scan-wrapper {
+	position: relative;
+}
+.title {
+	margin-bottom: 24rpx;
+	font-size: 34rpx;
+}
+.scan-wrapper>input {
+	padding-left: 20rpx;
+	width: 610rpx;
+	height: 70rpx;
+	background-color: #DEDFE1;
+}
+.icon-scan {
+	position: absolute;
+	bottom: 7rpx;
+	right: 20rpx;
+	font-size: 60rpx;
+	color: #606266;
+}
+.fault-wrapper {
+	margin-top: 50rpx;
+}
+.flex-wrapper {
+	/* background-color: pink; */
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: start;
+	-webkit-justify-content: flex-start;
+	        justify-content: flex-start;
+	-webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+}
+.flex-item-wrapper {
+	margin-bottom: 40rpx;
+	text-align: center;
+	width: 216.6rpx;
+	height: 70rpx;
+	line-height: 70rpx;
+	font-weight: 600;
+	color: #909399;
+}
+.flex-item {
+	margin: 0 auto;
+	width: 85%;
+	font-size: 28rpx;
+	color: #909399;
+	border: 1rpx solid #909399;
+	border-radius: 36rpx;
+}
+.remark-wrapper {
+	margin-top: 10rpx;
+}
+.remark-input {
+	padding: 20rpx;
+	height: 300rpx;
+	background-color: #DEDFE1;
+}
+.submit-btn {
+	margin: 60rpx auto 0;
+	width: 60%;
+	border-radius: 12rpx;
+}
+

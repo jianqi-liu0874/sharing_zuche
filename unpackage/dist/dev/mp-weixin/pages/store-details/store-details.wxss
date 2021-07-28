@@ -1,0 +1,134 @@
+
+.content {
+	background-color: #F1F0F6;
+}
+swiper {
+	height: 500rpx;
+}
+.swiper-item {
+	display: block;
+	height: 500rpx;
+	width: 100%;
+}
+.store-info-wrapper {
+	position: absolute;
+	top: 430rpx;
+	left: 50%;
+	-webkit-transform: translateX(-50%);
+	        transform: translateX(-50%);
+	width: 80%;
+	height: 210rpx;
+	padding: 36rpx 50rpx;
+	border-radius: 30rpx;
+	background-color: #fff;
+}
+.store-name {
+	font-size: 40rpx;
+	color: #303133;
+}
+.daohang-btn {
+	position: absolute;
+	right: 50rpx;
+	top: 36rpx;
+	width: 160rpx;
+	height: 55rpx;
+	font-size: 24rpx;
+	color: #fff;
+	background-color: #797979;
+	border-color: #797979;
+	border-radius: 16rpx;
+}
+.icon-daohang {
+	vertical-align: middle;
+	margin-right: 6rpx;
+}
+.store-info-bottom-item {
+	margin: 16rpx 0;
+	font-size: 28rpx;
+	color: #909399;
+}
+.store-info-bottom-item>.iconfont {
+	vertical-align: middle;
+	margin-right: 16rpx;
+}
+.address {
+	display: inline-block;
+	width: 540rpx;
+}
+.no-bicycle-wrapper {
+	position: absolute;
+	bottom: 0;
+	width: 100vw;
+	height: calc(100vh - 730rpx);
+	text-align: center;
+	font-size: 26rpx;
+	color: #888;
+}
+.bicycle-list-wrapper {
+	position: absolute;
+	bottom: 0;
+	width: 100vw;
+	height: calc(100vh - 730rpx);
+	overflow-y: auto;
+}
+.bicycle-list-item {
+	margin-bottom: 14rpx;
+	padding: 25rpx 0;
+	background-color: #fff;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+}
+.item-left {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	width: 300rpx;
+}
+.item-right {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+}
+.bicycle-img {
+
+	width: 255rpx;
+	height: 150rpx;
+	border-radius: 4rpx;
+}
+.item-right-bottom {
+	margin-top: 24rpx;
+}
+.item-right-bottom-item {
+	margin: 20rpx 0;
+	font-size: 30rpx;
+	color: #909399;
+}
+.item-right-bottom-item:last-child {
+	margin-bottom: 0;
+}
+.bicycle-name {
+	font-weight: 600;
+	font-size: 34rpx;
+}
+.detail,
+.icon-right {
+	float: right;
+	font-size: 26rpx;
+	color: #909399;
+}
+

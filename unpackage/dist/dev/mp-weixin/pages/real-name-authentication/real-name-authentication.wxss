@@ -1,0 +1,31 @@
+
+.top-img {
+	width: 100%;
+}
+.input-wrapper {
+	margin: 120rpx auto;
+	width: 65%;
+}
+.input-item {
+	margin: 20rpx 0;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.iconfont {
+	margin-right: 16rpx;
+	font-size: 46rpx;
+}
+.input-item>input {
+	width: 400rpx;
+	vertical-align: top;
+	border-bottom: 1rpx solid #E8E8E8;
+}
+.btn-wrapper {
+	margin: 0 auto;
+	width: 65%;
+}
+.btn-wrapper>button {
+	border-radius: 12rpx;
+}
+

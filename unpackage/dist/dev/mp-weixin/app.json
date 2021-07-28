@@ -1,0 +1,40 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/login/login",
+    "pages/user-center/user-center",
+    "pages/info/info",
+    "pages/nearby-stores/nearby-stores",
+    "pages/store-details/store-details",
+    "pages/bicycle-details/bicycle-details",
+    "pages/order-detail/order-detail",
+    "pages/apply-change-bicycle/apply-change-bicycle",
+    "pages/scan/scan",
+    "pages/my-orders/my-orders",
+    "pages/consume-detail/consume-detail",
+    "pages/credit-inquiry/credit-inquiry",
+    "pages/recharge/recharge",
+    "pages/real-name-authentication/real-name-authentication",
+    "pages/help/help",
+    "pages/fault-declare/fault-declare",
+    "pages/driver-license/driver-license",
+    "pages/parts-order-detail/parts-order-detail",
+    "pages/agreement/agreement",
+    "pages/change-bicycle-result/change-bicycle-result",
+    "pages/deductionRecord/deductionRecord",
+    "pages/contract/contract"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "需要获取您的地理位置，请确认授权"
+    }
+  },
+  "usingComponents": {}
+}

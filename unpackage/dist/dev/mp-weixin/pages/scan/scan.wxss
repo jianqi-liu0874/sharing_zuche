@@ -1,0 +1,30 @@
+
+.content {
+	padding: 50rpx;
+}
+.scan-wrapper {
+	position: relative;
+}
+.title {
+	margin-bottom: 24rpx;
+	font-size: 34rpx;
+}
+.scan-wrapper>input {
+	padding-left: 20rpx;
+	width: 610rpx;
+	height: 70rpx;
+	background-color: #DEDFE1;
+}
+.icon-scan {
+	position: absolute;
+	bottom: 7rpx;
+	right: 20rpx;
+	font-size: 60rpx;
+	color: #606266;
+}
+.submit-btn {
+	margin: 40rpx auto 0;
+	width: 610rpx;
+	border-radius: 12rpx;
+}
+

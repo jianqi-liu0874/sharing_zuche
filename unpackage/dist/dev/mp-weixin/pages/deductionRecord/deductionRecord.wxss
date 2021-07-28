@@ -1,0 +1,66 @@
+
+page {
+	background-color: #F1F0F6;
+}
+.tabs-wrapper {
+	width: 100vw;
+}
+.tab-content {
+	background-color: #F1F0F6;
+}
+.item-wrapper {
+	margin-bottom: 12rpx;
+	padding: 40rpx 40rpx 20rpx;
+	font-size: 30rpx;
+	background-color: #fff;
+}
+.paid-item-top {
+	padding-bottom: 18rpx;
+	border-bottom: 1rpx solid #E3E3E3;
+}
+.paid-item-bottom {
+	margin-top: 18rpx;
+}
+.pay-money {
+	float: right;
+	color: #EA4142;
+}
+.paid-item-bottom-item {
+	margin: 10rpx 0;
+	color: #303133;
+}
+.paid-item-bottom-item-right {
+	float: right;
+}
+.bottom-tips {
+	padding: 24rpx 0 48rpx;
+	text-align: center;
+	font-size: 26rpx;
+	color: #909399;
+}
+.btn-wrapper {
+	margin-top: 18rpx;
+	height: 55rpx;
+}
+.pay-btn,
+.cancel-btn {
+	float: right;
+	padding: 10rpx 16rpx;
+	text-align: center;
+	font-size: 26rpx;
+	color: #898989;
+	border: 1rpx solid #898989;
+	border-radius: 10rpx;
+}
+.pay-btn {
+	width: 90rpx;
+}
+.cancel-btn {
+	margin-right: 20rpx;
+	width: 110rpx;
+}
+.am-collapse-item-title {
+	padding: 0;
+	margin: 0;
+}
+

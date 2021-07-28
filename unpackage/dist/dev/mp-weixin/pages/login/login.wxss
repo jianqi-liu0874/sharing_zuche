@@ -1,0 +1,57 @@
+
+page {
+	position: relative;
+}
+.top-img {
+	width: 100%;
+}
+.login-area {
+	width: 100%;
+	padding-top: 90rpx;
+}
+.login-btn1 {
+	margin: 0 auto;
+	width: 85%;
+	border-radius: 12rpx;
+}
+.login-btn2 {
+	margin: 10rpx auto 0;
+	width: 75%;
+	border-radius: 12rpx;
+}
+.input-area {
+	position: relative;
+	margin: 0 auto;
+	width: 75%;
+}
+.phone-input,
+.code-input {
+	width: 100%;
+	margin-bottom: 50rpx;
+	padding-bottom: 15rpx;
+	border-bottom: 1rpx solid #E8E8E8;
+}
+.get-code {
+	/* 		position: absolute;
+	right: 10rpx;
+	top: 6rpx; */
+}
+.other-login {
+	margin-top: 32rpx;
+	text-align: center;
+	font-size: 28rpx;
+	color: #606266;
+}
+.login-tips {
+	position: absolute;
+	bottom: 100rpx;
+	left: 0;
+	width: 100%;
+	text-align: center;
+	font-size: 28rpx;
+	color: #606266;
+}
+.gray-text {
+	color: #9D9FA4;
+}
+

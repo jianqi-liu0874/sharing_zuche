@@ -1,0 +1,75 @@
+
+.top-wrapper {
+	text-align: center;
+	width: 750rpx;
+	height: 300rpx;
+}
+.avatar {
+	margin-top: 60rpx;
+	width: 150rpx;
+	height: 150rpx;
+	border-radius: 50%;
+	box-shadow: 0 0 6rpx rgba(0, 0, 0, .3);
+}
+.phone {
+	display: block;
+	margin-top: 10rpx;
+	height: 50rpx;
+	line-height: 50rpx;
+	font-size: 34rpx;
+	color: #fff;
+}
+.login-text {
+	display: block;
+	margin: 10rpx auto 0;
+	width: 200rpx;
+	height: 50rpx;
+	line-height: 50rpx;
+	font-size: 34rpx;
+	color: #fff;
+}
+.main-wrapper {
+	min-height: calc(100vh - 300rpx);
+	border-top-left-radius: 24rpx;
+	border-top-right-radius: 24rpx;
+	background-color: #fff;
+}
+.main-info-area {
+	border-top-left-radius: 24rpx;
+	border-top-right-radius: 24rpx;
+}
+.main-info-item {
+	display: inline-block;
+	margin-top: 30rpx;
+	width: 50%;
+	height: 140rpx;
+	text-align: center;
+}
+.main-info-text1 {
+	font-size: 34rpx;
+	font-weight: 600;
+}
+.main-info-text2 {
+	margin-top: 14rpx;
+	font-size: 28rpx;
+}
+.main-list-area {
+	margin: 0 auto;
+	width: 640rpx;
+}
+.main-list-item {
+	height: 130rpx;
+	line-height: 130rpx;
+	color: #303133;
+	border-top: 1rpx solid #E3E3E3;
+}
+.main-list-item>.iconfont {
+	margin: 0 24rpx 0 20rpx;
+	font-size: 36rpx;
+}
+.arrow {
+	float: right;
+	margin-right: 30rpx;
+	color: #606266;
+}
+
